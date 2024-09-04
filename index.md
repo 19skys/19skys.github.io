@@ -7,7 +7,7 @@ title: Home
 ## Introduction
 
 **Bold Text**
-_Italic Text_
+Skyler Riley
 **_Bold and Italic Text_**
 
 ## Research Question
